@@ -1,0 +1,21 @@
+.main-header {
+    background-image: url("../../Images/background.png");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.banner-title {
+    color: white;
+    font-size: 56px;
+}
+
+.title-color {
+    color: #FFCB73;
+}
+
+.btn-bg {
+    background-color: #FFCB73;
+    color: #0A131E;
+}
