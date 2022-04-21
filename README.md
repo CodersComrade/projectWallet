@@ -4,6 +4,18 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+
+http://api.exchangeratesapi.io/v1/latest
+
+    ? access_key = YOUR_ACCESS_KEY
+    & base = GBP
+    & symbols = USD,AUD,CAD,PLN,MXN
+    
+access_key=90c1e88239b13520e81e7665e9ece96f
+
+
+
+
 In the project directory, you can run:
 
 ### `npm start`

@@ -1,10 +1,14 @@
-import logo from './logo.svg';
 import './App.css';
+import Footer from './components/Footer/Footer';
+import AllChart from './components/Chart/AllChart/AllChart';
+import UpdateRates from './components/UpdateRates/UpdateRates';
 
 function App() {
   return (
-    <div className="App">
-     
+    <div>
+      <UpdateRates></UpdateRates>
+      <AllChart/>
+      <Footer/>
     </div>
   );
 }
